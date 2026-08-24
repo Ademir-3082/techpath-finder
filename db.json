@@ -1,0 +1,9 @@
+{
+  "_comentario": "TechPath Finder — persistência em sessão PHP. Este arquivo é reservado para dados futuros como logs, configurações ou cache de resultados.",
+  "versao": "1.0.0",
+  "config": {
+    "total_etapas": 12,
+    "alternativas_por_etapa": 5
+  },
+  "sessoes": []
+}
