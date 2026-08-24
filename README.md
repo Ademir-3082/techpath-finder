@@ -19,6 +19,26 @@ O fluxo completo da aplicação é:
 
 ---
 
+## 📸 Demonstração
+
+### Tela inicial
+
+![Tela inicial do TechPath Finder](screenshots/Captura%20de%20tela%202026-08-23%20233447.png)
+
+### Perguntas do Finder
+
+![Perguntas do TechPath Finder](screenshots/Captura%20de%20tela%202026-08-23%20233621.png)
+
+### Resultado e hipóteses
+
+![Resultado do TechPath Finder](screenshots/Captura%20de%20tela%202026-08-23%20233809.png)
+
+### TechPath Roadmap
+
+![Roadmap do TechPath Finder](screenshots/Captura%20de%20tela%202026-08-23%20234055.png)
+
+---
+
 ## 🚀 Funcionalidades
 
 - 12 perguntas situacionais interativas
@@ -89,5 +109,95 @@ Mapa de tendências
 Criar meu Roadmap TechPath
   ↓
 Roadmap personalizado
+```
 
+---
 
+## 🧠 Conceito do projeto
+
+O **TechPath Finder** não foi criado como um teste psicométrico ou como uma ferramenta que determina qual profissão uma pessoa deve seguir.
+
+A proposta é trabalhar com:
+
+**Sinal → Hipótese → Experimento → Evidência → Comparação → Decisão**
+
+Dessa forma, o usuário pode explorar diferentes possibilidades antes de escolher uma direção profissional.
+
+---
+
+## 🎯 Caminhos explorados
+
+Atualmente, o projeto trabalha com hipóteses relacionadas a áreas como:
+
+- Infraestrutura e Redes
+- Desenvolvimento Web
+- Cibersegurança
+
+Cada caminho apresenta fundamentos, experimentos e formas de produzir evidências práticas.
+
+---
+
+## 📂 Estrutura do projeto
+
+```text
+techpath-finder/
+│
+├── screenshots/
+│   ├── Captura de tela 2026-08-23 233447.png
+│   ├── Captura de tela 2026-08-23 233621.png
+│   ├── Captura de tela 2026-08-23 233809.png
+│   └── Captura de tela 2026-08-23 234055.png
+│
+├── db.json
+├── finder.php
+├── functions.php
+├── index.php
+├── perguntas.php
+├── recomecar.php
+├── resultado.php
+├── roadmap.php
+├── style.css
+└── README.md
+```
+
+---
+
+## ▶️ Executando o projeto
+
+O projeto utiliza **PHP** e pode ser executado em um servidor web com suporte à linguagem.
+
+Também é possível executá-lo localmente utilizando o servidor embutido do PHP:
+
+```bash
+php -S localhost:8000
+```
+
+Depois, acesse:
+
+```text
+http://localhost:8000
+```
+
+---
+
+## 🌐 Projeto online
+
+O **TechPath Finder** está publicado e pode ser testado diretamente pelo navegador:
+
+https://dev.funilpro.com.br/techpath-finder
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+**Ademir Celestino de Araujo Junior**
+
+Projeto desenvolvido como parte do meu aprendizado e evolução prática em tecnologia, aplicando conceitos de desenvolvimento web, lógica de programação, debugging e troubleshooting.
+
+---
+
+## 📌 Status do projeto
+
+🟢 **Funcional e publicado**
+
+O projeto continuará evoluindo conforme novos conhecimentos e funcionalidades forem incorporados.
